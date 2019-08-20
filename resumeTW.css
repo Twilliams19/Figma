@@ -24,7 +24,7 @@ color: #000000;
     border: 7px solid #000000;
     box-sizing: border-box;
 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Heebo', sans-serif;
     font-weight: 900;
     font-size: 14px;
    
@@ -44,9 +44,9 @@ color: #000000;
     border: 7px solid #000000;
     box-sizing: border-box;  
 
-    font-family: 'Times New Roman', Times, serif;
-font-weight: 900;
-font-size: 70px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 900;
+    font-size: 70px;
 
 
 color: #000000;
@@ -62,10 +62,10 @@ color: #000000;
     
     background: #1150F1; 
 
-    font-family: Tienne;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
+    font-family: 'Nova Flat', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
 
 
 color: #FFFFFF;
@@ -79,9 +79,9 @@ color: #FFFFFF;
     
     background: #041DFA;
     
-    font-family: 'Times New Roman', Times, serif;
-font-size: 64px;
-color: #FFFFFF;    
+    font-family: 'Nova Flat', cursive;
+    font-size: 64px;
+    color: #FFFFFF;    
 }
 
 /* page3 */
@@ -96,9 +96,9 @@ background: #F3043D;
 box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3);
 border-radius: 5px;
 
-font-family: 'Times New Roman', Times, serif;
+font-family: 'Staatliches', cursive;
 font-weight: normal;
-font-size: 20px;
+font-size: 35px;
 
 
 color: #FFFFFF;
@@ -113,9 +113,9 @@ color: #FFFFFF;
     
     background: #E62727;
     
-    font-family: 'Times New Roman', Times, serif;
-font-weight: normal;
-font-size: 64px;
+    font-family: 'Staatliches', cursive;
+    font-weight: normal;
+    font-size: 64px;
 
 
 color: #FFFFFF;
