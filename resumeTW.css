@@ -77,9 +77,9 @@ color: #FFFFFF;
     position: absolute;
     width: 726px;
     height: 141px;
-    top: 619px;
+    top: 612px;
     
-    background: #041DFA;
+    background: rgb(24, 250, 4);
     
     font-family: 'Nova Flat', cursive;
     font-size: 64px;
@@ -100,7 +100,7 @@ border-radius: 5px;
 
 font-family: 'Staatliches', cursive;
 font-weight: normal;
-font-size: 35px;
+font-size: 25px;
 
 
 
