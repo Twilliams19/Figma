@@ -1,0 +1,122 @@
+
+/* page1 */
+
+.name{
+    position: absolute;
+width: 617px;
+height: 96px;
+top: 126px;
+
+font-family: 'Times New Roman', Times, serif;
+font-weight: 900;
+font-size: 64px;
+
+
+color: #000000;
+}
+
+.box1{
+    position: absolute;
+    width: 660px;
+    height: 268px;
+    top: 260px;
+    
+    border: 7px solid #000000;
+    box-sizing: border-box;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 14px;
+   
+    
+    color: #000000;
+    
+    
+}
+
+.brutalist{
+    position: absolute;
+    width: 653px;
+    height: 140px;
+    top: 670px;
+    
+    background: #FFFFFF;
+    border: 7px solid #000000;
+    box-sizing: border-box;  
+
+    font-family: 'Times New Roman', Times, serif;
+font-weight: 900;
+font-size: 70px;
+
+
+color: #000000;
+
+}
+
+/* Page2 */
+.box2{
+    position: absolute;
+    width: 723px;
+    height: 373px;
+    top: 222px;
+    
+    background: #1150F1; 
+
+    font-family: Tienne;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+
+
+color: #FFFFFF;
+}
+
+.flat{
+    position: absolute;
+    width: 726px;
+    height: 141px;
+    top: 619px;
+    
+    background: #041DFA;
+    
+    font-family: 'Times New Roman', Times, serif;
+font-size: 64px;
+color: #FFFFFF;    
+}
+
+/* page3 */
+
+.box3{
+    position: absolute;
+width: 961px;
+height: 376px;
+top: 222px;
+
+background: #F3043D;
+box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3);
+border-radius: 5px;
+
+font-family: 'Times New Roman', Times, serif;
+font-weight: normal;
+font-size: 20px;
+
+
+color: #FFFFFF;
+
+}
+
+.material{
+    position: absolute;
+    width: 963px;
+    height: 186px;
+    top: 670px;
+    
+    background: #E62727;
+    
+    font-family: 'Times New Roman', Times, serif;
+font-weight: normal;
+font-size: 64px;
+
+
+color: #FFFFFF;
+}
