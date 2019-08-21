@@ -1,0 +1,83 @@
+html{
+    background-color: rgb(17, 212, 238)
+}
+
+.name{
+    position: absolute;
+    width: 764px;
+    height: 150px;
+    left: 533px;
+    top: 50px;
+    padding:20px; 
+    background: #112159;
+    
+    font-family: Tienne;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 15px;
+     color:black;
+     box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3); 
+     text-align: center;
+}
+
+.sentences{
+    position: absolute;
+    width: 642px;
+    height: 498px;
+    left: 225px;
+    top: 297px;
+    padding:30px;
+
+    background: #5CBC65;
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3); 
+
+    font-family: 'Abel', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    
+
+}
+.project{
+    position: absolute;
+    width: 637px;
+    height: 498px;
+    left: 930px;
+    top: 297px;
+    padding:30px; 
+    
+    background: rgba(198, 28, 213, 0.87);
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.3); 
+
+    font-family: 'Abel', sans-serif;
+    font-weight: normal;
+    font-size: 22px;
+    
+
+color: #FFFFFF;
+}
+
+.box{
+    position: absolute;
+    width: 1412px;
+    height: 208px;
+    left: 222px;
+    top: 880px;
+    
+    background: #E8AA0C;
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3);   
+}
+
+.material{
+    position: absolute;
+    width: 295px;
+    height: 104px;
+    left: 526px;
+    top: 60px;
+    
+    background: rgb(53, 216, 61);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-size: 35px; 
+    color:rgb(15, 15, 121);
+}
