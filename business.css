@@ -28,9 +28,9 @@ padding: 30px;
 
 .paper{
     position: absolute;
-width: 1291px;
-height: 919px;
-left: 60px;
+width: 1191px;
+height: 959px;
+left: 80px;
 top: 1045px;
 
 background: #FFFFFF;
@@ -85,3 +85,7 @@ color: #A52A2A;
      margin-right: auto;
      width: 40%;
  }  
+a{
+    text-decoration: none;
+    color: black;
+}
