@@ -16,8 +16,8 @@ border-radius: 4px;
 font-family: 'Anton', sans-serif;
 font-style: normal;
 font-weight: normal;
-font-size: 44px;
-line-height: 56px;
+font-size: 49px;
+line-height: 10px;
 display: inline;
 
 color:black;
@@ -30,19 +30,19 @@ padding: 30px;
     position: absolute;
 width: 1191px;
 height: 959px;
-left: 80px;
+left: 120px;
 top: 1045px;
 
 background: #FFFFFF;
 border: 8px solid #D2B48C;
-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
 
 font-family: 'Crimson Text', serif;
 font-style: normal;
 font-weight: 500;
 font-size: 25px;
 line-height: 38px;
-padding: 40px;
+padding: 20px;
 
 color: #A52A2A;
 }
@@ -51,13 +51,13 @@ color: #A52A2A;
     position: absolute;
     width: 316px;
     height: 82px;
-    left: 588px;
+    left: 558px;
     top: 2183px;
     
     background: #F2F2F2;
-    border: 3px solid #FFD700;
+    border: 5px solid #FFD700;
     box-sizing: border-box;
-    border-radius: 6px;
+    border-radius: 10px;
 
     font-family: Roboto;
     font-style: normal;
@@ -75,7 +75,8 @@ color: #A52A2A;
 #go{
     font-family:'Roboto', sans-serif; 
     font-size:50px;
-    color: #D2B48C;  
+    color: #D2B48C;
+    text-shadow: 3px 3px rgb(14, 13, 13);  
 }
    
     
