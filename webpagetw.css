@@ -10,13 +10,14 @@ html{
     top: 55px;
     padding:20px; 
     background: #112159;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
     
     font-family: Tienne;
 font-style: normal;
 font-weight: normal;
 font-size: 48px;
 line-height: 15px;
-     color:black; 
+     color:rgb(114, 48, 48); 
      text-align: center;
 }
 
