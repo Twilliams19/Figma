@@ -70,7 +70,15 @@ color: #A52A2A;
 }
 
 #case{
-   padding-left:651px;   
+   padding-left:659px;
+   height:275px; 
+   width: auto;   
+}
+
+#case2{
+    padding-left:75px;
+    height:275px; 
+    width: auto;
 }
 
 #go{
