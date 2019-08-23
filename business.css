@@ -51,7 +51,7 @@ color: #A52A2A;
     position: absolute;
     width: 316px;
     height: 82px;
-    left: 558px;
+    left: 618px;
     top: 2183px;
     
     background: #F2F2F2;
@@ -66,6 +66,7 @@ color: #A52A2A;
     line-height: 42px;
     
     color: #592D06;
+   margin-bottom:60px; 
 }
 
 #case{
