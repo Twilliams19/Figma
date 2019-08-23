@@ -6,7 +6,7 @@ html{
     position: absolute;
 width: 608px;
 height: 100px;
-left: 427px;
+left: 409px;
 top: 90px;
 
 background: #FFFFFF;
@@ -27,10 +27,10 @@ padding: 30px;
 
 .paper{
     position: absolute;
-width: 791px;
-height: 719.13px;
-left: 314px;
-top: 345px;
+width: 1291px;
+height: 919px;
+left: 90px;
+top: 845px;
 
 background: #FFFFFF;
 border: 8px solid #D2B48C;
@@ -41,7 +41,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 25px;
 line-height: 38px;
-padding: 30px;
+padding: 40px;
 
 color: #A52A2A;
 }
@@ -51,7 +51,7 @@ color: #A52A2A;
     width: 316px;
     height: 82px;
     left: 588px;
-    top: 1183px;
+    top: 1983px;
     
     background: #F2F2F2;
     border: 3px solid #FFD700;
@@ -71,7 +71,10 @@ color: #A52A2A;
    padding-left:650px;   
 }
 
-
+h1{
+    font-size:50px;
+    color: #D2B48C;  
+}
    
     
     
