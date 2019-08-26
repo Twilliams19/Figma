@@ -6,7 +6,7 @@ html{
     position: absolute;
 width: 608px;
 height: 100px;
-left: 409px;
+left: 379px;
 top: 90px;
 
 background: #FFFFFF;
@@ -30,7 +30,7 @@ padding: 30px;
     position: absolute;
 width: 1191px;
 height: 959px;
-left: 100px;
+left: 85px;
 top: 1045px;
 
 background: #FFFFFF;
@@ -76,7 +76,7 @@ color: #A52A2A;
 }
 
 #case2{
-    padding-left:75px;
+    padding-left:45px;
     height:275px; 
     width: auto;
 }
@@ -93,7 +93,7 @@ color: #A52A2A;
      display: block; 
      margin-left: auto;
      margin-right: auto;
-     width: 44%;
+     width: 50%;
  }  
 a{
     text-decoration: none;
