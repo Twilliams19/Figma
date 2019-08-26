@@ -57,9 +57,9 @@ color: #A52A2A;
     background: #F2F2F2;
     border: 5px solid #FFD700;
     box-sizing: border-box;
-    border-radius: 10px;
+    border-radius: 12px;
 
-    font-family: Roboto;
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -93,7 +93,7 @@ color: #A52A2A;
      display: block; 
      margin-left: auto;
      margin-right: auto;
-     width: 40%;
+     width: 44%;
  }  
 a{
     text-decoration: none;
