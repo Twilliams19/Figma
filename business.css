@@ -51,10 +51,10 @@ color: #A52A2A;
     position: absolute;
     width: 316px;
     height: 82px;
-    left: 618px;
+    left: 518px;
     top: 2183px;
     
-    background: #F2F2F2;
+    background: rgb(167, 165, 165);
     border: 5px solid gold;
     box-sizing: border-box;
     border-radius: 12px;
@@ -67,6 +67,7 @@ color: #A52A2A;
     
     color: #592D06;
    margin-bottom:60px; 
+   
 }
 
 #case{
