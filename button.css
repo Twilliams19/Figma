@@ -87,3 +87,24 @@ line-height: 113px;
 
 color: #000000;
 }
+
+.new{
+    position: absolute;
+width: 364px;
+height: 156px;
+left: 171px;
+top: 970px;
+
+background: rgba(41, 200, 27, 0.65);
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+border-radius: 66px;
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 118px;
+text-align: center;
+
+color: #000000;
+}
