@@ -51,7 +51,7 @@ color: #A52A2A;
     position: absolute;
     width: 316px;
     height: 82px;
-    left: 518px;
+    left: 318px;
     top: 2183px;
     
     background: rgb(167, 165, 165);
@@ -101,4 +101,25 @@ a{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:30px;  
+}
+.button2{
+    position: absolute;
+    width: 316px;
+    height: 82px;
+    left: 718px;
+    top: 2183px;
+    
+    background: rgb(167, 165, 165);
+    border: 6px solid gold;
+    box-sizing: border-box;
+    border-radius: 12px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 42px;
+    
+    color: rgb(159, 212, 34);
+   margin-bottom:60px;
 }
